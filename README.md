@@ -35,6 +35,10 @@ Provisional sample program and participants
 
 **Todor Arnaudov:**
 
+* ПЪРВАТА СЪВРЕМЕННА СТРАТЕГИЯ ЗА РАЗВИТИЕ ЧРЕЗ ИЗКУСТВЕН ИНТЕЛЕКТ Е ПУБЛИКУВАНА ПРЕЗ 2003 Г. ОТ 18-ГОДИШЕН БЪЛГАРИН И ПОВТОРЕНА И ИЗПЪЛНЕНА ОТ ЦЕЛИЯ СВЯТ 15 ГОДИНИ ПО-КЪСНО:
+БЪЛГАРСКИТЕ ПРОРОЧЕСТВА: КАК БИХ ИНВЕСТИРАЛ ЕДИН МИЛИОН СНАЙ-ГОЛЯМА ПОЛЗА ЗА РАЗВИТИЕТО НА СТРАНАТА - монография (предстои)
+* СПОМЕНИ ЗА УТРОТО НА БЪЛГАРСКАТА ИЗЧИСЛИТЕЛНА ТЕХНИКА: верифицирането на СМ 601; първият български микрокомпютър е ИЗОТ 0220 – а не ИМКО; ИЗОТ 0250, ИЗОТ 0310, СМ-4, ИЗОТ 1002C, ИЗОТ 1003C, ЦИИТ и други, или ПИСМА МЕЖДУ ВЛАДИМИР ШКУРТОВ И ТОШ ОТ 1.2005 г. (предстои)
+
 * The book "The Prophets of the Thinking Machine: AGI & Transhumanism: History, Theory and Pioneers[ & Present and Future]" a survey of the history of AI, AI prophets and "Todor's predictions" or <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a> within the landscape: the works of a teenage boy that were decades ahead of the current top interdisciplinary researchers and AI mainstream (yet they were also rediscovering other forgotten "prophets"). A presentation of the "biblical" documentary collection book proving the pioneering work and correct predictions, probably also a presentation about the new piece from the theory which is not published yet: "Universe and Mind 6" etc., which compares with recent talks and claims of similar recent works from the school of thought of Karl Friston, Michael Levin, their colleagues and students etc.
 * Master of All Trades <s>"Jack of All Trades"</s> - a project for building an AGI infrastructure: summary of directions, plans (looking for partners) - see the repo and the issues: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine 
 * Workshop/Tutorial/Technical reports for Arnoldifier - converting a deepfake library to grayscale ?
