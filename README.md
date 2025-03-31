@@ -14,13 +14,8 @@
 
 The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
 
-The exact way of conducting is not specified yet, it could be just a gathering, a place for publishing your work, videos and let the others see, comment, contact each others etc.
-
-The goal was the event to be presented in 2023, but the "chairman" T.A. was busy and if it couldn't be organised until the end of the year it may be in 2024 or so and then it moved to 2025. :)
-
 The Sacred Computers' original alternative terms for Artificial General Intelligence: Artificial Mind, Изкуствен Разум, Мислеща машина, VLESI: Versatile Limitless Explorer and Self-Improver and variants such as VEI: Versatile Explorer and Improver ... EI: Explorer and Improver. VGEI: Versatile Generalizer Explorer and Improver... //note from 27.3.2024
-* EMI - Explorer Mapper Improver ... (2025)
-
+* EMI - Explorer Mapper Improver ... (2025) 
 
 ## Invitation for partners, participants and coorganizers! Покана за участници! Приглашение участников! 
 
@@ -95,3 +90,8 @@ The possible dates and organization will be decided together with the prospectiv
 
 It would be great if we could arrange the meeting/seminars to be hosted by a University.
 
+.....
+
+* Earlier notes:  The exact way of conducting is not specified yet, it could be just a gathering, a place for publishing your work, videos and let the others see, comment, contact each others etc.
+
+The goal was the event to be presented in 2023, but the "chairman" T.A. was busy and if it couldn't be organised until the end of the year it may be in 2024 or so and then it moved to 2025. :)
