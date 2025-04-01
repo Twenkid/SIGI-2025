@@ -12,6 +12,16 @@
 ![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 
+* Тодор Арнаудов - Тош, Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно:
+Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната - юнашки многопис, юнашка дисертация, "монография", "мултиграфия" 31.3.2025 г.
+https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf
+
+* Владимир Шкуртов, Тодор Арнаудов. СПОМЕНИ ЗА УТРОТО НА БЪЛГАРСКАТА ИЗЧИСЛИТЕЛНА ТЕХНИКА: верифицирането на СМ 601; първият български микрокомпютър е ИЗОТ 0220 – а не ИМКО; ИЗОТ 0250, ИЗОТ 0310, СМ-4, ИЗОТ 1002C, ИЗОТ 1003C, ЦИИТ и други, или ПИСМА МЕЖДУ ВЛАДИМИР ШКУРТОВ И ТОШ ОТ 1.2005 г. https://github.com/Twenkid/SIGI-2025/blob/main/shkurtov-arnaudov-2005_2025_spomeni.pdf, 11.3.2025
+
+* Владимир Шкуртов, Тодор Арнаудов. Спомени от зората на микропроцесорите, персоналните компютри и компютърните архитектури: писма между владимир шкуртов и тодор арнаудов от 12.2004 – 1.2005 г.: създаването на ИЗОТ 0220 и внедряването на принтера DZM 180 в ЦИИТ, причини за избора на 8086/8088 от IBM за IBM-PC, теоретична разлика между периферни и запомнящи устройство; Zilog, Intel, Microsoft, IBM, Apple през 1980-те и началото на 1990-те, 25.3.2025  https://github.com/Twenkid/SIGI-2025/blob/main/Shkurtov-Arnaudov-Spomeni-2_SIGI-2025.pdf    
+
+...
+
 The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
 
 The Sacred Computers' original alternative terms for Artificial General Intelligence: Artificial Mind, Изкуствен Разум, Мислеща машина, VLESI: Versatile Limitless Explorer and Self-Improver and variants such as VEI: Versatile Explorer and Improver ... EI: Explorer and Improver. VGEI: Versatile Generalizer Explorer and Improver... //note from 27.3.2024
@@ -29,14 +39,6 @@ Provisional sample program and participants
 <b>Possible (provisional) topics:</b>
 
 **Todor Arnaudov:**
-
-* Тодор Арнаудов - Тош, Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно:
-Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната - юнашки многопис, юнашка дисертация, "монография", "мултиграфия" 31.3.2025 г.
-https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf
-
-* Владимир Шкуртов, Тодор Арнаудов. СПОМЕНИ ЗА УТРОТО НА БЪЛГАРСКАТА ИЗЧИСЛИТЕЛНА ТЕХНИКА: верифицирането на СМ 601; първият български микрокомпютър е ИЗОТ 0220 – а не ИМКО; ИЗОТ 0250, ИЗОТ 0310, СМ-4, ИЗОТ 1002C, ИЗОТ 1003C, ЦИИТ и други, или ПИСМА МЕЖДУ ВЛАДИМИР ШКУРТОВ И ТОШ ОТ 1.2005 г. https://github.com/Twenkid/SIGI-2025/blob/main/shkurtov-arnaudov-2005_2025_spomeni.pdf 
-
-* Владимир Шкуртов, Тодор Арнаудов. Спомени от зората на микропроцесорите, персоналните компютри и компютърните архитектури: писма между владимир шкуртов и тодор арнаудов от 12.2004 – 1.2005 г.: създаването на ИЗОТ 0220 и внедряването на принтера DZM 180 в ЦИИТ, причини за избора на 8086/8088 от IBM за IBM-PC, теоретична разлика между периферни и запомнящи устройство; Zilog, Intel, Microsoft, IBM, Apple през 1980-те и началото на 1990-те …   https://github.com/Twenkid/SIGI-2025/blob/main/Shkurtov-Arnaudov-Spomeni-2_SIGI-2025.pdf
 
 * The book "The Prophets of the Thinking Machine: AGI & Transhumanism: History, Theory and Pioneers[ & Present and Future]" a survey of the history of AI, AI prophets and "Todor's predictions" or <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a> within the landscape: the works of a teenage boy that were decades ahead of the current top interdisciplinary researchers and AI mainstream (yet they were also rediscovering other forgotten "prophets"). A presentation of the "biblical" documentary collection book proving the pioneering work and correct predictions, probably also a presentation about the new piece from the theory which is not published yet: "Universe and Mind 6" etc., which compares with recent talks and claims of similar recent works from the school of thought of Karl Friston, Michael Levin, their colleagues and students etc.
 * Master of All Trades <s>"Jack of All Trades"</s> - a project for building an AGI infrastructure: summary of directions, plans (looking for partners) - see the repo and the issues: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine 
