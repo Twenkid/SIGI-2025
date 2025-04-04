@@ -1,5 +1,6 @@
-# SACRED COMPUTER 2025 | МИСЛЕЩИ МАШИНИ 2025 | SIGI-2025
-## Second Rolling Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2025 a.k.a. ...
+## МИСЛЕЩИ МАШИНИ 2025 | SIGI-2025
+## Second Rolling Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2025 ...
+### Целогодишна виртуална конференция на СВЕЩЕНИЯТ СМЕТАЧ: мислещи машини, творчество и развитие на човека
 <!-- BOTH
 ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/d8477418-007a-4da5-9d8f-7e67e0f14aaf)
 -->
