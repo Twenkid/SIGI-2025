@@ -21,6 +21,8 @@ https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_A
 
 * Владимир Шкуртов, Тодор Арнаудов. Спомени от зората на микропроцесорите, персоналните компютри и компютърните архитектури: писма между Владимир Шкуртов и Тодор Арнаудов от 12.2004 – 1.2005 г.: създаването на ИЗОТ 0220 и внедряването на принтера DZM 180 в ЦИИТ, причини за избора на 8086/8088 от IBM за IBM-PC, теоретична разлика между периферни и запомнящи устройство; Zilog, Intel, Microsoft, IBM, Apple през 1980-те и началото на 1990-те, 25.3.2025  https://github.com/Twenkid/SIGI-2025/blob/main/Shkurtov-Arnaudov-Spomeni-2_SIGI-2025.pdf    
 
+* Рюдигер Курт, Тодор Арнаудов: Микроелектрониката в ГДР и България (...) ? 
+* Венелин Барбутов, ИЗОТ 1036С, копирането, ... , 2015, 2024, ... (?)
 ...
 
 The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
@@ -36,6 +38,8 @@ Provisional sample program and participants
 
 * Principal Organizer: "The Sacred Computer" AGI & Transhumanism institute, Todor Arnaudov (looking for coorganizers)
 * Wanted co-organizers from the fields of Robotcs, AI, ML, Aerospace, Software, ...
+
+<b>Други предстоящи теми::</b>
 
 <b>Possible (provisional) topics:</b>
 
