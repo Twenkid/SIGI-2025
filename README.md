@@ -64,7 +64,7 @@ Provisional sample program and participants
 * Intro of ACS? Assistant C# - the "stealth" research accelerator/assistant of the Sacred Computer
 * ? General workshops/tutorials on NLP, NLG, Web scraping, ... ?
 * ? KidVM - experimental simple Virtual Machine/CPU for (...)
-* ...
+* Тош, Ефектите в "Сън в летен дъжд" - Дивия Пловдив 18. | The Visual Effects in "Dream in a Summer Rain" Tutorial https://twenkid.blogspot.com/2020/09/18-visual-effects-in-dream-in-summer.html (2019 г., Twenkid FX Studio, Video processing, OpenCV, Python, Computer Vision, hacks, minimalism ...)
 
 ## SIGI 2012
 
