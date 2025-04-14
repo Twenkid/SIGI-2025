@@ -7,12 +7,19 @@
 <!-- //ENGLISH
 ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
 -->
+
 <!-- //BULGARIAN
 ![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
 -->
-![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
-* SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 
+ <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image">
+ <!--
+![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
+-->
+<img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
+
+* SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
+ 
 * Тодор Илиев Арнаудов - Тош, Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно:
 Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната - юнашки многопис, юнашка дисертация, "монография", "мултиграфия" 31.3.2025 г.  https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf  
 **248 стр.**  **Виж откъси, начало на част от "мини-автореферата", съдържание:** https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html
