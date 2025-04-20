@@ -41,8 +41,15 @@
 * Рюдигер Курт и Тодор Арнаудов: Микроелектрониката в ГДР и България (...) ? 
 * Венелин Барбутов и Тодор Арнаудов, ИЗОТ 1036С, копирането, ... спомени, коментари, тълкувания, 2015, 2024, ... (?)
 * Ивелина Иванова и Тодор Арнаудов.: ~ Bot Brother, Trigrams are better than LLMS, or Trigrams are all you need, ... 2024-2025 (working titles)
+
+## Workshops
+* Todor Arnaudov, ? LLMs Workshop - running small ones locally, working with big free ones, ...
+* Todor Arnaudov, Moondream workshop - a sweet small multimodal vision-text model with The Sacred Computer's contribution: https://moondream.ai/
+* Todor Arnaudov, ? SNN with Lava and snntorch - Practical Introduction to spiking neural networks with Lava, snntorch etc.
+* Todor Arnaudov, ?Whisper + AutoClap + GPT4All + Computer Control/Intelligent-OS + Smarty 2/Research Accelerator/Assistant (ACS) - parts of Master of All Trades/Vsy/Вседържец
 * Други: виж по-долу.
 
+## You can Join and help with your events, items, works!
 ...
 
 The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
