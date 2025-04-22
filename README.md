@@ -9,6 +9,8 @@
 ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
 -->
 
+For English - Scroll down to Workshops.
+
 <!-- //BULGARIAN
 ![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
 -->
@@ -41,13 +43,14 @@
 * Ивелина Иванова и Тодор Арнаудов.: ~ Bot Brother, Trigrams are better than LLMS, or Trigrams are all you need, ... 2024-2025 (working titles)
 
 ## Workshops
-* Todor Arnaudov, ? LLMs Workshop
-   * Running various small ones locally, working with big free ones, ...
-   * RhodopeGPT - adjustable sizes, train from scratch
-   * Gemma3-4B-it-multimodal_4-bit seems better than Gemma-2-BgGPT-27B (web) in Bulgarian and multilingually 
-* Todor Arnaudov, Moondream workshop - a sweet small multimodal vision-text model with The Sacred Computer's contribution: https://moondream.ai/
-* Todor Arnaudov, ? SNN with Lava and snntorch - Practical Introduction to spiking neural networks with Lava, snntorch etc.
 * Todor Arnaudov, ?Whisper + AutoClap + GPT4All + Computer Control/Intelligent-OS + Smarty 2/Research Accelerator/Assistant (ACS) - parts of Master of All Trades/Vsy/Вседържец
+* Todor Arnaudov, ? LLMs Workshop
+   * Running various small LLMs locally, working with big free ones, ...
+   * RhodopeGPT - Create custom transformers with adjustable sizes, trained from scratch by The Sacred Computer
+   * Gemma3-4B-it-multimodal_4-bit seems better than Gemma-2-BgGPT-27B (web) in Bulgarian and multilingually 
+* Todor Arnaudov, Moondream: a 2B multimodal vision-text model: https://moondream.ai/ - a project with "The Sacred Computer's" contribution
+* Todor Arnaudov, Practical Introduction to Spiking Neural Networks with Lava, snntorch etc.   
+* Todor Arnaudov, Deploying Computer Vision on the Edge: running CV models on google-coral tpu_edge on Raspberry Pi.
 * Други: виж по-долу.
 
 ## You can Join and help with your events, items, works!
