@@ -1,25 +1,7 @@
-## МИСЛЕЩИ МАШИНИ 2025 | SIGI-2025
-### 25 Years "The Sacred Computer"
-## Second Rolling Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2025 ...
-### Целогодишна виртуална конференция на юнашко дружество СВЕЩЕНИЯТ СМЕТАЧ: <br> Мислещи машини, Творчество и Развитие на човека
-<!-- BOTH
-![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/d8477418-007a-4da5-9d8f-7e67e0f14aaf)
--->
-<!-- //ENGLISH
-![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
--->
+## МИСЛЕЩИ МАШИНИ 2025 | SIGI-2025 : 25 Years "The Sacred Computer"
+### Rolling Year-Old Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers <br> Целогодишна виртуална конференция на юнашко дружество <code style="color:dark blue">СВЕЩЕНИЯТ СМЕТАЧ:  Мислещи машини, Творчество и Развитие на човека.</code>
 
-For English - Scroll down to Workshops.
-
-<!-- //BULGARIAN
-![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
--->
-
- <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image">
- <!--
-![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
--->
-<img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
+ <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
 
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 
