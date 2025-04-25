@@ -4,14 +4,14 @@
  <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
 
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
+* English: Scroll/Find: English or Workshops
 
 **17.4.2025: Най-нова публикация: Нужни ли са смъртни изчислителни системи за създаване на универсални мислещи машини?**
 Отговор на „Mortal Computation: A Foundation for Biomimetic Intelligence“, Alexander Ororbia, Karl Friston, 2023,2024
 "Смъртни изчислителни системи: Основа на подобен на живота изкуствен интелект", 2023/2024
 **Ключови думи и резюме:** https://artificial-mind.blogspot.com/2025/04/is-mortal-computation-required-for-AGI-universal-thinking-machines.html
 
-* Тодор Илиев Арнаудов - Тош, **Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно:
-Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната** - юнашки многопис, "мултиграфия", юнашка дисертация, "монография", 31.3.2025 г.  https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf  
+* Тодор Илиев Арнаудов - Тош, **Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно: Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната** - юнашки многопис, "мултиграфия", юнашка дисертация, "монография", 31.3.2025 г.  https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf  
 **248 стр.**  **Виж откъси, начало на част от "мини-автореферата", съдържание:** https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html
 
 * Тодор Илиев Арнаудов - Тош, **Нужни ли са смъртни изчислителни системи за създаване на универсални мислещи машини?**,  17.4.2025, Свещеният сметач, Мислещи машини 2025 г. SIGI-2025. Малка монография, 70 стр. https://github.com/Twenkid/SIGI-2025/blob/main/Arnaudov-Is-Mortal-Computation-Required-For-Thinking-Machines-17-4-2025.pdf ... <br><b>Ключови думи и резюме:</b> https://artificial-mind.blogspot.com/2025/04/is-mortal-computation-required-for-AGI-universal-thinking-machines.html
@@ -24,7 +24,14 @@
 * Венелин Барбутов и Тодор Арнаудов, ИЗОТ 1036С, копирането, ... спомени, коментари, тълкувания, 2015, 2024, ... (?)
 * Ивелина Иванова и Тодор Арнаудов.: ~ Bot Brother, Trigrams are better than LLMS, or Trigrams are all you need, ... 2024-2025 (working titles)
 
-## Workshops
+## English
+* The first "National AI Strategy" for development by a focused R&D towards creation of an AGI was published in 2003 by an 18-year old Bulgarian and repeated and implemented by the whole world 15-20 years later: The Bulgarian Prophecies: How would I invest one million for the best benefit of the development of my country?, Todor Arnaudov, 31.3.2025, a monograph/multigraph, 248 pages, mainly in Bulgarian
+*  Is Mortal Computation Requred for the Creation of Universal Thinking Machines?, Todor Arnaudov, 17.4.2025, a monograph 70 pg., Bulgarian
+*  ... Papers on History of computing ...  
+*  Etc.
+
+## Workshops 
+
 * Todor Arnaudov, ?Whisper + AutoClap + GPT4All + Computer Control/Intelligent-OS + Smarty 2/Research Accelerator/Assistant (ACS) - parts of Master of All Trades/Vsy/Вседържец
 * Todor Arnaudov, ? LLMs Workshop
    * Running various small LLMs locally, working with big free ones, ...
