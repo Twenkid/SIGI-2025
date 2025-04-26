@@ -1,5 +1,5 @@
 ## МИСЛЕЩИ МАШИНИ 2025 | SIGI-2025 : 25 Years "The Sacred Computer"
-### Rolling Year-Old Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers <br> Целогодишна виртуална конференция на юнашко дружество <code style="color:dark blue">СВЕЩЕНИЯТ СМЕТАЧ:  Мислещи машини, Творчество и Развитие на човека.</code>
+### Rolling Year-Long Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers <br> Целогодишна виртуална конференция на юнашко дружество <code style="color:dark blue">СВЕЩЕНИЯТ СМЕТАЧ:  Мислещи машини, Творчество и Развитие на човека.</code>
 
  <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
 
