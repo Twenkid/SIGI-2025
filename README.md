@@ -30,27 +30,7 @@
 *  ... Papers on History of computing ...  
 *  Etc.
 
-## Possible Workshops: 
-
-LLMs, Speech recognition, Intelligent OS (computer use), Intelligent dictionary and Research Accelerators, Flying robots - drones, SLAM, Spiking neural networks, Computer Vision on edge devices (Raspberry Pi) etc.
-
-* Todor Arnaudov, ?Whisper + AutoClap + GPT4All + Computer Control/Intelligent-OS + Smarty 2/Research Accelerator/Assistant (ACS) - parts of Master of All Trades/Vsy/Вседържец
-* Todor Arnaudov, Drones: How to develop your own autonomous drone and simulate it with Gazebo, Ardupilot, Mavlink, Python, OpenCV etc.
-* Todor Arnaudov, Drones: Introduction to flying robots: basic design, components parts.  
-* Todor Arnaudov, Drones: Helping to bootstrap a "garage"-micro-startup for autonomous drones and robotics to its first $25K investment: lessons learned. [Technically - an appartment startup]
-<!--  and growth by volunteering and then quitting -->
-* Todor Arnaudov, SLAM: Practical Introduction with RTabmap, Intel RealSense; points of clouds, mapping. Recalling George Hotz' "Twitchslam" example.
-* Todor Arnaudov, ? LLMs Workshops
-   * Running various small LLMs locally, working with big free ones, ...
-   * RhodopeGPT - Create custom transformers with adjustable sizes, trained from scratch by The Sacred Computer
-   * Gemma3-4B-it-multimodal_4-bit seems better than Gemma-2-BgGPT-27B (web) in Bulgarian and multilingually 
-* Todor Arnaudov, Moondream: a 2B multimodal vision-text model: https://moondream.ai/ - a project with "The Sacred Computer's" contribution
-* Други: виж по-долу.
-* Todor Arnaudov, Practical Introduction to Spiking Neural Networks with Lava, snntorch etc.   
-* Todor Arnaudov, Deploying Computer Vision on the Edge: running CV models on google-coral tpu_edge on Raspberry Pi.
-
 ## You can Join and help with your events, items, works!
-...
 
 The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
 
@@ -69,6 +49,27 @@ Provisional sample program and participants
 <b>Други предстоящи теми::</b>
 
 <b>Possible (provisional) topics:</b>
+
+## Possible Workshops: 
+
+LLMs, Speech recognition, Intelligent OS (computer use), Intelligent dictionary and Research Accelerators, Flying robots - drones, SLAM, Spiking neural networks, Computer Vision on edge devices (Raspberry Pi) etc.
+
+* Todor Arnaudov, Speech Recognition with Whisper + AutoClap + GPT4All + Computer Control/Intelligent-OS + Smarty 2/Research Accelerator/Assistant (ACS) - parts of Master of All Trades/Vsy/Вседържец
+* Todor Arnaudov, Drones: How to develop your own autonomous drone and simulate it with Gazebo, Ardupilot, Mavlink, Python, OpenCV etc.
+* Todor Arnaudov, Drones: Introduction to flying robots: basic design, components parts.  
+* Todor Arnaudov, Drones: Helping to bootstrap a "garage"-micro-startup for autonomous drones and robotics to its first $25K investment: lessons learned. [Technically - an appartment startup]
+<!--  and growth by volunteering and then quitting -->
+* Todor Arnaudov, SLAM: Practical Introduction with RTabmap, Intel RealSense; points of clouds, mapping. Recalling George Hotz' "Twitchslam" example.
+* Todor Arnaudov, ? LLMs Workshops
+   * Running various small LLMs locally, working with big free ones, ...
+   * RhodopeGPT - Create custom transformers with adjustable sizes, trained from scratch by The Sacred Computer
+   * Gemma3-4B-it-multimodal_4-bit seems better than Gemma-2-BgGPT-27B (web) in Bulgarian and multilingually 
+* Todor Arnaudov, Moondream: a 2B multimodal vision-text model: https://moondream.ai/ - a project with "The Sacred Computer's" contribution
+* Други: виж по-долу.
+* Todor Arnaudov, Practical Introduction to Spiking Neural Networks with Lava, snntorch etc.   
+* Todor Arnaudov, Deploying Computer Vision on the Edge: running CV models on google-coral tpu_edge on Raspberry Pi.
+
+Other possible publications or workshops (or subparts of the ones mentioned above)
 
 **Todor Arnaudov:**
 
@@ -89,6 +90,8 @@ Provisional sample program and participants
 * ? General workshops/tutorials on NLP, NLG, Web scraping, ... ?
 * ? KidVM - experimental simple Virtual Machine/CPU for (...)
 * Тош, Ефектите в "Сън в летен дъжд" - Дивия Пловдив 18. | The Visual Effects in "Dream in a Summer Rain" Tutorial https://twenkid.blogspot.com/2020/09/18-visual-effects-in-dream-in-summer.html (2019 г., Twenkid FX Studio, Video processing, OpenCV, Python, Computer Vision, hacks, minimalism ...)
+
+
 
 ## SIGI 2012
 
