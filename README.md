@@ -25,8 +25,10 @@
 * Ивелина Иванова и Тодор Арнаудов.: ~ Bot Brother, Trigrams are better than LLMS, or Trigrams are all you need, ... 2024-2025 (working titles)
 
 ## English
-* The first "National AI Strategy" for development by a focused R&D towards creation of an AGI was published in 2003 by an 18-year old Bulgarian and repeated and implemented by the whole world 15-20 years later: The Bulgarian Prophecies: How would I invest one million for the best benefit of the development of my country?, Todor Arnaudov, 31.3.2025, a monograph/multigraph, 248 pages, mainly in Bulgarian (in this edition)
-*  Is Mortal Computation Requred for the Creation of Universal Thinking Machines?, Todor Arnaudov, 17.4.2025, a monograph 70 pg., Bulgarian
+* The first "National AI Strategy" for development by a focused R&D towards creation of an AGI was published in 2003 by an 18-year old Bulgarian and repeated and implemented by the whole world 15-20 years later: The Bulgarian Prophecies: How would I invest one million for the best benefit of the development of my country?, Todor Arnaudov, 31.3.2025, a monograph/multigraph, 248 pages, mainly in Bulgarian (in this edition).
+  * See excerpts with machine translation: https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html
+*  Is Mortal Computation Requred for the Creation of Universal Thinking Machines?, Todor Arnaudov, 17.4.2025, a monograph 70 pg., Bulgarian - Probably there will be an English edition as well, possibly with variations. This work is connected with the following which is in English:
+* Universe and Mind 6, a continuation of the numbering of the classical Theory of Universe and Mind (2001-2004)
 *  ... Papers on History of computing ...  
 *  Etc.
 
