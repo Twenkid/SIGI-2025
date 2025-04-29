@@ -1,5 +1,6 @@
 ## МИСЛЕЩИ МАШИНИ 2025 | SIGI-2025 : 25 Years "The Sacred Computer"
-### Rolling Year-Long Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers <br> Целогодишна виртуална конференция на юнашко дружество <code style="color:dark blue">СВЕЩЕНИЯТ СМЕТАЧ:  Мислещи машини, Творчество и Развитие на човека.</code>
+### Rolling Year-Long Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers by The Sacred Computer: Thinking Machines, Creativity and Human Development
+### Целогодишна виртуална конференция на юнашко дружество <code style="color:dark blue">СВЕЩЕНИЯТ СМЕТАЧ:  Мислещи машини, Творчество и Развитие на човека.</code>
 
  <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
 
@@ -38,7 +39,7 @@ the Facebook page: https://www.facebook.com/groups/115986208422069/ ... Write a 
 
 ## You can Join and help with your events, items, works!
 
-* The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
+* The purpose of this "rolling" whole-year long meeting is to be a forum and a site for gathering of R&D people, students, angels and investors who look for collaborators, partners or interesting projects and topics to study, learn, apply or to sponsor etc.
 * The Sacred Computers' original alternative terms for Artificial General Intelligence: Artificial Mind, Изкуствен Разум, Мислеща машина, VLESI: Versatile Limitless Explorer and Self-Improver and variants such as VEI: Versatile Explorer and Improver ... EI: Explorer and Improver. VGEI: Versatile Generalizer Explorer and Improver... //note from 27.3.2024
 * EMI - Explorer Mapper Improver ... (2025) 
 
