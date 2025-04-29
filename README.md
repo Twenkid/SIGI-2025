@@ -23,7 +23,7 @@
 * Рюдигер Курт и Тодор Арнаудов: Микроелектрониката в ГДР и България (...) ? 
 * Венелин Барбутов и Тодор Арнаудов, ИЗОТ 1036С, копирането, ... спомени, коментари, тълкувания, 2015, 2024, ... (?)
 * Ивелина Иванова и Тодор Арнаудов.: ~ Bot Brother, Trigrams are better than LLMS, or Trigrams are all you need, ... 2024-2025 (working titles)
-
+* Тодор Арнаудов, Да бъдеш вечно млад: наблюденията и програмата на Тодор Арнаудов против стареенето, за удължаване на младостта и постигане и поддържане на върхови познавателни и физически функционални показатели без специална храна, добавки, лекарства или процедури. 
 ## English
 * The first "National AI Strategy" for development by a focused R&D towards creation of an AGI was published in 2003 by an 18-year old Bulgarian and repeated and implemented by the whole world 15-20 years later: The Bulgarian Prophecies: How would I invest one million for the best benefit of the development of my country?, Todor Arnaudov, 31.3.2025, a monograph/multigraph, 248 pages, mainly in Bulgarian (in this edition).
   * See excerpts with machine translation: https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html
@@ -73,6 +73,9 @@ LLMs, Speech recognition, Intelligent OS (computer use), Intelligent dictionary 
 * Други: виж по-долу.
 * Todor Arnaudov, Practical Introduction to Spiking Neural Networks with Lava, snntorch etc.   
 * Todor Arnaudov, Deploying Computer Vision on the Edge: running CV models on google-coral tpu_edge on Raspberry Pi.
+* Todor Arnaudov, Forever Young: Todor Arnaudov's observations and program against aging, how to extend the youth and to achieve and maintain top cognitive and physical functional capacities without special food, supplements, medicines or procedures. (Compare to Bryan Jhonson's Blueprint)
+
+
 
 Other possible publications or workshops (or subparts of the ones mentioned above)
 
