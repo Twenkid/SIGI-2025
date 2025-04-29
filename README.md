@@ -4,7 +4,7 @@
  <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
 
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
-* English: Scroll/Find: English or Workshops
+* English and How to Join?: Scroll/Find: English or Workshops or How to Join
 
 **17.4.2025: Най-нова публикация: Нужни ли са смъртни изчислителни системи за създаване на универсални мислещи машини?**
 Отговор на „Mortal Computation: A Foundation for Biomimetic Intelligence“, Alexander Ororbia, Karl Friston, 2023,2024
@@ -25,16 +25,19 @@
 * Ивелина Иванова и Тодор Арнаудов.: ~ Bot Brother, Trigrams are better than LLMS, or Trigrams are all you need, ... 2024-2025 (working titles)
 
 ## English
-* The first "National AI Strategy" for development by a focused R&D towards creation of an AGI was published in 2003 by an 18-year old Bulgarian and repeated and implemented by the whole world 15-20 years later: The Bulgarian Prophecies: How would I invest one million for the best benefit of the development of my country?, Todor Arnaudov, 31.3.2025, a monograph/multigraph, 248 pages, mainly in Bulgarian
+* The first "National AI Strategy" for development by a focused R&D towards creation of an AGI was published in 2003 by an 18-year old Bulgarian and repeated and implemented by the whole world 15-20 years later: The Bulgarian Prophecies: How would I invest one million for the best benefit of the development of my country?, Todor Arnaudov, 31.3.2025, a monograph/multigraph, 248 pages, mainly in Bulgarian (in this edition)
 *  Is Mortal Computation Requred for the Creation of Universal Thinking Machines?, Todor Arnaudov, 17.4.2025, a monograph 70 pg., Bulgarian
 *  ... Papers on History of computing ...  
 *  Etc.
 
+* **How to Join?** - contact me via email (in my github profile twenkid@... etc.), on Discord: https://discord.gg/aEvPPeKn
+the Facebook page: https://www.facebook.com/groups/115986208422069/ ... Write a proposal - or share link - in the Issues post. If colleages gather we may organize interactive sessions. 
+
+
 ## You can Join and help with your events, items, works!
 
-The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
-
-The Sacred Computers' original alternative terms for Artificial General Intelligence: Artificial Mind, Изкуствен Разум, Мислеща машина, VLESI: Versatile Limitless Explorer and Self-Improver and variants such as VEI: Versatile Explorer and Improver ... EI: Explorer and Improver. VGEI: Versatile Generalizer Explorer and Improver... //note from 27.3.2024
+* The purpose of this "rolling" whole-year long meeting is to be a show case and a gathering of R&D people who look for collaborators, partners or interesting projects and topics.
+* The Sacred Computers' original alternative terms for Artificial General Intelligence: Artificial Mind, Изкуствен Разум, Мислеща машина, VLESI: Versatile Limitless Explorer and Self-Improver and variants such as VEI: Versatile Explorer and Improver ... EI: Explorer and Improver. VGEI: Versatile Generalizer Explorer and Improver... //note from 27.3.2024
 * EMI - Explorer Mapper Improver ... (2025) 
 
 ## Invitation for partners, participants and coorganizers! Покана за участници! Приглашение участников! 
