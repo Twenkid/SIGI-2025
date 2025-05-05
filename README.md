@@ -7,6 +7,8 @@
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 * English and How to Join?: Scroll/Find: English or Workshops or How to Join
 
+* 6.5.2025: Coming Next: Universe and Mind 6, Calculus of Art, Part I: Music I... See announcements at: http://artificial-mind.blogspot.com
+
 **17.4.2025: Най-нова публикация: Нужни ли са смъртни изчислителни системи за създаване на универсални мислещи машини?**
 Отговор на „Mortal Computation: A Foundation for Biomimetic Intelligence“, Alexander Ororbia, Karl Friston, 2023,2024
 "Смъртни изчислителни системи: Основа на подобен на живота изкуствен интелект", 2023/2024
