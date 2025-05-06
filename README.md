@@ -35,8 +35,7 @@
 *  ... Papers on History of computing ...  
 *  Etc.
 
-* **How to Join?** - contact me via email (in my github profile twenkid@... etc.), on Discord: https://discord.gg/aEvPPeKn
-the Facebook page: https://www.facebook.com/groups/115986208422069/ ... Write a proposal - or share link - in the Issues post. If colleages gather we may organize interactive sessions. 
+* **How to Join?** - contact me via email (in my github profile twenkid@... etc.), on Discord (link: 6.5.2025, valid for 50 new members): https://discord.gg/AbtwYrTGnQ  the Facebook page: https://www.facebook.com/groups/115986208422069/ ... Write a proposal - or share link - in the Issues post. If colleages gather we may organize interactive sessions. 
 
 
 ## You can Join and help with your events, items, works!
