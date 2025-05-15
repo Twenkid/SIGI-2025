@@ -14,8 +14,9 @@
 "Смъртни изчислителни системи: Основа на подобен на живота изкуствен интелект", 2023/2024
 **Ключови думи и резюме:** https://artificial-mind.blogspot.com/2025/04/is-mortal-computation-required-for-AGI-universal-thinking-machines.html
 
-* Тодор Илиев Арнаудов - Тош, **Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно: Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната** - юнашки многопис, "мултиграфия", юнашка дисертация, "монография", 31.3.2025 г.  https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf  
-**248 стр.**  **Виж откъси, начало на част от "мини-автореферата", съдържание:** https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html
+* Тодор Илиев Арнаудов - Тош, **Първата съвременна стратегия за развитие чрез изкуствен интелект е публикувана през 2003 г. от 18-годишен българин и повторена и изпълнена от целия свят 15 - 20 години по-късно: Българските пророчества: Как бих инвестирал един милион с най-голяма полза за развитието на страната** - юнашки многопис, "мултиграфия", юнашка дисертация, "монография", 31.3.2025 г. Последни корекции: 15.5.2025.
+https://github.com/Twenkid/SIGI-2025/blob/main/Purvata_Strategiya_UIR_AGI_2003_Arnaudov_SIGI-2025_31-3-2025.pdf  
+**248 стр.**  **Виж откъси, начало на част от "мини-автореферата", съдържание:** https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html   
 
 * Тодор Илиев Арнаудов - Тош, **Нужни ли са смъртни изчислителни системи за създаване на универсални мислещи машини?**,  17.4.2025, Свещеният сметач, Мислещи машини 2025 г. SIGI-2025. Малка монография, 70 стр. https://github.com/Twenkid/SIGI-2025/blob/main/Arnaudov-Is-Mortal-Computation-Required-For-Thinking-Machines-17-4-2025.pdf ... <br><b>Ключови думи и резюме:</b> https://artificial-mind.blogspot.com/2025/04/is-mortal-computation-required-for-AGI-universal-thinking-machines.html
   
