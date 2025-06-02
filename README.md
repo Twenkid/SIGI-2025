@@ -9,7 +9,7 @@
 
 * 6.5.2025: Coming Next: Universe and Mind 6, Calculus of Art, Part I: Music I... See announcements at: http://artificial-mind.blogspot.com
 
-** Todor Arnaudov, Creativity is imitation at the level of algorithms, 2003 (2025) - English translation of this visionary work, originally published in Bulgarian. https://twenkid.com/agi/Creativity-is-imitation-at-the-level-of-algorithms-todor-arnaudov-2003-2025.pdf
+**Todor Arnaudov, Creativity is imitation at the level of algorithms, 2003 (2025)** - English translation of this visionary work, originally published in Bulgarian. https://twenkid.com/agi/Creativity-is-imitation-at-the-level-of-algorithms-todor-arnaudov-2003-2025.pdf .. 2.6.2025
 
 **17.4.2025: Най-нова публикация: Нужни ли са смъртни изчислителни системи за създаване на универсални мислещи машини?**
 Отговор на „Mortal Computation: A Foundation for Biomimetic Intelligence“, Alexander Ororbia, Karl Friston, 2023,2024
