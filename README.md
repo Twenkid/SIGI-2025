@@ -7,7 +7,17 @@
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 * English and How to Join?: Scroll/Find: English or Workshops or How to Join
 
+### Latest
+
+* 19.7.2025: **Algorithmic Complexity** - _Appendix to The Prophets of The Thinking Machines_, ©Authors: The authors of all cited and reviewed works, such as: 
+Hector Zenil, Felipe Abrahao, Andrey Kolmogorov, Gregory Chaitin, Ray Solomonoff; Charles Benett, David Deutsch, Nicolas Gauvrit, Jesper Tegnér, Leong Ting Lui, Santiago Hernández-Orozco, Jean-Paul Delahaye, Cristian S. Calude, Gordana Dodig-Crnkovic, Oliver Korten Noam Nisan, Avi Wigderson, Martin Davis, Alexander Shen et al., ; various encyclopaedic sources such as Wikipedia etc. & Todor Arnaudov – author of The Prophets of the Thinking Machines and editor, summarizer, introductory texts, notes and author of the contextual reviews and mini-sub-articles; 27 p., English
+
+https://twenkid.com/agi/Algorithmic-Complexity_Prophets-of-the-Thinking-Machines-18-7-2025.pdf 
+
+To the old and new studetns: consider it a continuation of the lecture slides of the world's first course in AGI... :) (see link in the paper)
+
 * 6.5.2025: Coming Next: Universe and Mind 6, Calculus of Art, Part I: Music I [published 10.6.2025]... See announcements at: http://artificial-mind.blogspot.com
+
 * 10.6.2025: Upcoming (reprint): "Issues with Like/Dislike Voting (...)", T.Arnaudov, 2012... Connected with Calclus of Art I: Music I.
 
 * 10.6.2025: **Todor Arnaudov, Calculus of Art I: Music I**, 12.2012/10.6.2025, 46 pages. <!-- **Abstract:** On origins, criteria, confusions and methods for measuring the musical beauty and beauty in general sensory modalities and domains, and a discussion and answer to the paper “Musical beauty and information compression: Complex to the ear, but simple to the mind”, which rediscovers some core conclusions from the earlier Theory of Universe and Mind about the universality of compression and prediction for cognition, the origin of cognitive pleasure as a by effect of the general operation of intelligence: maximizing matching and successful prediction of sequences and the common origin of science and art and music as prediction and compression; however “Calculus of Art” challenges claims and methods for measuring the complexity and cognitive pleasure from the referred paper and proposes methods and ideas from Calculus, requiring Art, Music and any domain to be “pleasurable” or predictable, compressible etc. in the whole range of scales of time and space and to be explored, studied, produced, generated, perceived, evaluated etc. incrementally, gradually, step-by-step expanded both in time and space, starting from the smallest possible ones and continually growing and evaluating the ranges,  features, qualities, “pleasure”; and when comparing beauty, evaluating the features which humans or a generally intelligent compression system would recognize, compress and predict. A broader introduction and justification of prerequisite concepts and the basis of the reasoning is given in the first half of the paper. This is an entry to more technical future works and practical implementations.  
