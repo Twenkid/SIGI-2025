@@ -9,9 +9,9 @@
 
 ### Latest
 
-* 20.7.2025 0:10: Another 19.7.2025 version, more notes, corrections, extended the paper to 30 p.
+* 20.7.2025 0:10: Another 19.7.2025 version, more notes, corrections, extended the paper to 32 <s>30 p.</s>
 * 19.7.2025: **Algorithmic Complexity** - _Appendix to The Prophets of The Thinking Machines_, ©Authors: The authors of all cited and reviewed works, such as: 
-Hector Zenil, Felipe Abrahao, Andrey Kolmogorov, Gregory Chaitin, Ray Solomonoff; Charles Benett, David Deutsch, Nicolas Gauvrit, Jesper Tegnér, Leong Ting Lui, Santiago Hernández-Orozco, Jean-Paul Delahaye, Cristian S. Calude, Gordana Dodig-Crnkovic, Oliver Korten Noam Nisan, Avi Wigderson, Martin Davis, Alexander Shen, Marvin Minsky et al., ; various encyclopaedic sources such as Wikipedia etc. & Todor Arnaudov – author of The Prophets of the Thinking Machines and editor, summarizer, introductory texts, notes and author of the contextual reviews and mini-sub-articles; 30 p. <s>27 p.</s>, English
+Hector Zenil, Felipe Abrahao, Andrey Kolmogorov, Gregory Chaitin, Ray Solomonoff, Leonid Levin; Charles Benett, David Deutsch, Nicolas Gauvrit, Jesper Tegnér, Leong Ting Lui, Santiago Hernández-Orozco, Jean-Paul Delahaye, Cristian S. Calude, Gordana Dodig-Crnkovic, Oliver Korten Noam Nisan, Avi Wigderson, Martin Davis, Alexander Shen, Marvin Minsky et al., ; various encyclopaedic sources such as Wikipedia etc. & Todor Arnaudov – author of The Prophets of the Thinking Machines and editor, summarizer, introductory texts, notes and author of the contextual reviews and mini-sub-articles; 30 p. <s>27 p.</s>, English
 
 https://twenkid.com/agi/Algorithmic-Complexity_Prophets-of-the-Thinking-Machines-18-7-2025.pdf 
 
