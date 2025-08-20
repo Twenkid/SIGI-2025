@@ -10,7 +10,8 @@
 ### Latest
 
 ***6.8.2025 ... Other appendices may be published soon: Listove (~ 400 p.), Irina, Institutes, SF & Cybernetics, ...**
-* 18.8.2025 ... Приложение "Анелия", 124 стр.  
+* 20.8.2025: Lazar or "Lots of papers" - a new appendix to The Prophets  https://github.com/Twenkid/SIGI-2025/blob/main/Lazar_The_Prophets_of_the_Thinking_Machines_20-8-2025.pdf
+* 18.8.2025: Anelia - an appendix to The Prophets... Приложение "Анелия", 123 стр.  
 * 30.7.2025 ... Updates with, more notes, corrections etc. extended the paper to 34 p. (19.7, 20.7,...)  
 * 19.7.2025: **Algorithmic Complexity** - _Appendix to The Prophets of The Thinking Machines_, ©Authors: The authors of all cited and reviewed works, such as: 
 Hector Zenil, Felipe Abrahao, Andrey Kolmogorov, Gregory Chaitin, Ray Solomonoff, Leonid Levin; Charles Benett, David Deutsch, Nicolas Gauvrit, Jesper Tegnér, Leong Ting Lui, Santiago Hernández-Orozco, Jean-Paul Delahaye, Cristian S. Calude, Gordana Dodig-Crnkovic, Oliver Korten Noam Nisan, Avi Wigderson, Martin Davis, Alexander Shen, Marvin Minsky et al., ; various encyclopaedic sources such as Wikipedia etc. & Todor Arnaudov – author of The Prophets of the Thinking Machines and editor, summarizer, introductory texts, notes and author of the contextual reviews and mini-sub-articles; 30 p. <s>27 p.</s>, English
