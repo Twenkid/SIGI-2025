@@ -11,7 +11,7 @@
 
 ***6.8.2025 ... Other appendices may be published soon: Listove (~ 400 p.), Irina, Institutes, SF & Cybernetics, ...**
 
-*** 20.8.2025: Lazar or "Lots of papers" - a new appendix to The Prophets ** https://github.com/Twenkid/SIGI-2025/blob/main/Lazar_The_Prophets_of_the_Thinking_Machines_20-8-2025.pdf
+* **20.8.2025: Lazar or "Lots of papers"** - a new appendix to The Prophets ** https://github.com/Twenkid/SIGI-2025/blob/main/Lazar_The_Prophets_of_the_Thinking_Machines_20-8-2025.pdf
 
 * 18.8.2025: **Anelia** - an appendix to The Prophets... Приложение "Анелия", 124 стр.
   
