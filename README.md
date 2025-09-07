@@ -11,6 +11,9 @@
 
 ***6.8.2025 ... Other appendices may be published soon: Listove (~ 400 p.), Irina, Institutes, SF & Cybernetics, ...**
 
+* **7.9.2025** Ново приложение: ИНСТИТУТИ И СТРАТЕГИИ ЗА ИЗКУСТВЕН ИНТЕЛЕКТ НА СВЕТОВНО НИВО В ИЗТОЧНА ЕВРОПА И СВЕТА, 136 стр., 7.9.2025
+ https://github.com/Twenkid/SIGI-2025/blob/main/AI_Institutes_Strategies_The_Prophets_Thinking_Machines_7-9-2025.pdf
+
 * **20.8.2025: Lazar or "Lots of papers"** - a new appendix to The Prophets ** https://github.com/Twenkid/SIGI-2025/blob/main/Lazar_The_Prophets_of_the_Thinking_Machines_20-8-2025.pdf
 
 * 18.8.2025: **Anelia** - an appendix to The Prophets... Приложение "Анелия", 124 стр.
