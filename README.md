@@ -11,6 +11,7 @@
 
 ***6.8.2025 ... Other appendices may be published soon: Listove (~ 400 p.), Irina, Institutes, SF & Cybernetics, ...**
 
+* **13.9.2025** (updated 15.9.2025) Stack Theory is yet another Fork of Theory of Universe and Mind, Todor Arnaudov – Tosh, 196 p. English
 * **7.9.2025** Ново приложение: ИНСТИТУТИ И СТРАТЕГИИ ЗА ИЗКУСТВЕН ИНТЕЛЕКТ НА СВЕТОВНО НИВО В ИЗТОЧНА ЕВРОПА И СВЕТА, 139 с. (10.9.2025) (Първа версия 136 стр., 7.9.2025)
  https://github.com/Twenkid/SIGI-2025/blob/main/AI_Institutes_Strategies_The_Prophets_Thinking_Machines_7-9-2025.pdf
 
