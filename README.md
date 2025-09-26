@@ -11,9 +11,10 @@
 
 ***6.8.2025 ... Other appendices may be published soon: Listove (~ 400 p.), Irina, Institutes, SF & Cybernetics, ...**
 
+* **26.9.2025** (last edits: 26.9.2025) Ирина - приложение към Пророците на Мислещите машини, Тодор Арнаудов - Тош; Irina - The Prophets of the Thinking Machines, Todor Arnaudov – Tosh, 190 p., български
 * **22.9.2025** (last edits: 22.9.2025) Universe and Mind 6, Todor Arnaudov – Tosh, 81 p., English <!-- <s>199 p.</s> English <s>196 p.</s> -->
 * **13.9.2025** (last edits: 20.9.2025 0:15) Stack Theory is yet another Fork of Theory of Universe and Mind, Todor Arnaudov – Tosh, 204 p. <s>199 p.</s> English <s>196 p.</s>
-* **7.9.2025** Ново приложение: ИНСТИТУТИ И СТРАТЕГИИ ЗА ИЗКУСТВЕН ИНТЕЛЕКТ НА СВЕТОВНО НИВО В ИЗТОЧНА ЕВРОПА И СВЕТА, 139 с. (10.9.2025) (Първа версия 136 стр., 7.9.2025) (Ред. 18.9.2025 - 139 стр.)
+* **7.9.2025** Ново приложение: **ИНСТИТУТИ И СТРАТЕГИИ ЗА ИЗКУСТВЕН ИНТЕЛЕКТ НА СВЕТОВНО НИВО В ИЗТОЧНА ЕВРОПА И СВЕТА,** 139 с. (10.9.2025) (Първа версия 136 стр., 7.9.2025) (Ред. 18.9.2025 - 139 стр.)
  https://github.com/Twenkid/SIGI-2025/blob/main/AI_Institutes_Strategies_The_Prophets_Thinking_Machines_7-9-2025.pdf
 
 * **20.8.2025: Lazar or "Lots of papers"** - a new appendix to The Prophets ** https://github.com/Twenkid/SIGI-2025/blob/main/Lazar_The_Prophets_of_the_Thinking_Machines_20-8-2025.pdf
