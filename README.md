@@ -9,8 +9,11 @@
 
 ### Latest
 
-***6.8.2025 ... Other appendices may be published soon: Listove (~ 400 p.), Irina, Institutes, SF & Cybernetics, ...**
-* **29.9.2025** -Котката - Kotkata_The_Prophets_of_the_Thinking_Machines_29-9-2025.pdf 
+***6.8.2025 ... Other appendices may be published soon: Listove (~ 500 p. <s>400 p.</s>), Main Volume; ... Irina, Institutes, SF & Cybernetics, ...**
+
+* **3.10.2025** ФАНТАСТИКА. ФУТУРОЛОГИЯ. КИБЕРНЕТИКА. РАЗВИТИЕ НА ЧОВЕКА - приложение към Пророците на Мислещите машини, Тодор Арнаудов - Тош. 
+SF_Futurology_Cyber_Transhumanism_The_Prophets_of_the_Thinking-Machines_3-10-2025 .pdf
+* **29.9.2025** Котката - Kotkata_The_Prophets_of_the_Thinking_Machines_29-9-2025.pdf 
 * **26.9.2025** (last edits: 26.9.2025) Ирина - приложение към Пророците на Мислещите машини, Тодор Арнаудов - Тош; Irina - The Prophets of the Thinking Machines, Todor Arnaudov – Tosh, 190 p., български
 * **22.9.2025** (last edits: 22.9.2025) Universe and Mind 6, Todor Arnaudov – Tosh, 81 p., English <!-- <s>199 p.</s> English <s>196 p.</s> -->
 * **13.9.2025** (last edits: 20.9.2025 0:15) Stack Theory is yet another Fork of Theory of Universe and Mind, Todor Arnaudov – Tosh, 204 p. <s>199 p.</s> English <s>196 p.</s>
