@@ -7,10 +7,13 @@
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 * English and How to Join?: Scroll/Find: English or Workshops or How to Join
 
+You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
+
 ### Latest
 
 * **5.11.2025** (updates up to 13.11.2025): Listove - Reflections on Everything. The second largest volume (about 724 p.) Find here or at: https://twenkid.com/agi/
 (Historical: ...6.8.2025 ... Other appendices may be published soon: Listove (~ 500 p. <s>400 p.</s>), Main Volume; ... Irina, Institutes, SF & Cybernetics, ...)
+Intros, reviews in the begining of the book and: https://artificial-mind.blogspot.com/2025/11/listove-or-reflections-on-everything.html
 * **3.10.2025** ФАНТАСТИКА. ФУТУРОЛОГИЯ. КИБЕРНЕТИКА. РАЗВИТИЕ НА ЧОВЕКА - приложение към Пророците на Мислещите машини, Тодор Арнаудов - Тош. 
 SF_Futurology_Cyber_Transhumanism_The_Prophets_of_the_Thinking-Machines_3-10-2025 .pdf
 * **29.9.2025** Котката - "Анализ на смисъла на изречение...", 2004 с истинска действаща мислеща машина от края на 2023 до 2025 г. (...) Kotkata_The_Prophets_of_the_Thinking_Machines_29-9-2025.pdf 
