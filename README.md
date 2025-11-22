@@ -2,7 +2,7 @@
 ### Rolling Year-Long Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers by The Sacred Computer: Thinking Machines, Creativity and Human Development
 ### Целогодишна виртуална конференция на юнашко дружество <br><code style="color:dark blue">СВЕЩЕНИЯТ СМЕТАЧ:  Мислещи машини, Творчество и Развитие на човека.</code>
 
- <img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
+<img src="https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3" width="68%" alt="image"><img src="https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56" width="31%" alt="image">
 
 * SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 * English and How to Join?: Scroll/Find: English or Workshops or How to Join
@@ -10,6 +10,9 @@
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
 ### Latest
+* 22.11.2025: Нова корица на "Първата стратегия":
+<!-- <img width="577" height="841" alt="image" src="https://github.com/user-attachments/assets/2531b69d-7a15-4538-87db-102255a12fed" width=20%/> -->
+<img alt="image-the-first-strategy" src="https://github.com/user-attachments/assets/2531b69d-7a15-4538-87db-102255a12fed" width=50%/> 
 
 * **5.11.2025** (updates up to 13.11.2025): Listove - Reflections on Everything. The second largest volume (about 724 p.) Find here or at: https://twenkid.com/agi/
 (Historical: ...6.8.2025 ... Other appendices may be published soon: Listove (~ 500 p. <s>400 p.</s>), Main Volume; ... Irina, Institutes, SF & Cybernetics, ...)
