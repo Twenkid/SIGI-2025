@@ -10,6 +10,9 @@
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
 ### Latest
+
+* Updates and corrections of "Listove - Reflections on Everything" up to the end of November 2025
+* Corrections in "Universe and Mind 6"
 * 22.11.2025: Нова корица на "Първата стратегия":
 <!-- <img width="577" height="841" alt="image" src="https://github.com/user-attachments/assets/2531b69d-7a15-4538-87db-102255a12fed" width=20%/> -->
 <img alt="image-the-first-strategy" src="https://github.com/user-attachments/assets/2531b69d-7a15-4538-87db-102255a12fed" width=50%/> 
