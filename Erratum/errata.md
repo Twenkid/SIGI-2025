@@ -8,3 +8,10 @@
 tokenizaion  tokenization 
 interpreation is - interpretation
 discrepanies - "discrepancies ~ 85 
+
+
+```#mortal```
+```
+изчисленителни - изчислителни
+органими - организми
+```
