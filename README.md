@@ -11,12 +11,14 @@ You can download the papers also from https://twenkid.com/agi/ (a more elaborate
 
 ### Latest
 
+
 * Updates and corrections of "Listove - Reflections on Everything" up to the end of November 2025
 * Corrections in "Universe and Mind 6"
 * 22.11.2025: Нова корица на "Първата стратегия":
 <!-- <img width="577" height="841" alt="image" src="https://github.com/user-attachments/assets/2531b69d-7a15-4538-87db-102255a12fed" width=20%/> -->
 <img alt="image-the-first-strategy" src="https://github.com/user-attachments/assets/2531b69d-7a15-4538-87db-102255a12fed" width=50%/> 
 
+* **11.1.2026** The Main Volume of The Prophets (2378 p. in this edition) Published at: https://twenkid.com/agi/ (nearly 64,8 MB)
 * **5.11.2025** (updates up to 13.11.2025): Listove - Reflections on Everything. The second largest volume (about 724 p.) Find here or at: https://twenkid.com/agi/
 (Historical: ...6.8.2025 ... Other appendices may be published soon: Listove (~ 500 p. <s>400 p.</s>), Main Volume; ... Irina, Institutes, SF & Cybernetics, ...)
 Intros, reviews in the begining of the book and: https://artificial-mind.blogspot.com/2025/11/listove-or-reflections-on-everything.html
