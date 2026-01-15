@@ -9,7 +9,8 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
-* **11.1.2026** The Main Volume of The Prophets (2378 p. in this edition) Published at: https://twenkid.com/agi/ (nearly 64,8 MB): <a href="https://twenkid.com/agi/download.php?file=AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf">AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf</a>
+* **15.1.2026**: Listove, minor corrections of spotted typos ~ p.235-248, larger font (13 vs 12 ...)
+* **11.1.2026** The Main Volume of The Prophets (2378 p. in this edition) Published at: https://twenkid.com/agi/ (nearly 64,8 MB): <a href="https://twenkid.com/agi/download.php?file=AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf">AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf</a> [Still being updated with minor corrections.]
  * **11.1.2026** Visit and Join SIGI-2026, an yearlong virtual conference, which will continue until the next year! https://github.com/Twenkid/SIGI-2026
 
 ### Latest
