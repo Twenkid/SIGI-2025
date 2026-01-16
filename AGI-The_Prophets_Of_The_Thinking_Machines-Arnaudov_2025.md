@@ -3,5 +3,6 @@
 ## Past Present and Future
 ### Main Volume
 ...
+1.2026
 
 https://twenkid.com/agi/download.php?file=AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf
