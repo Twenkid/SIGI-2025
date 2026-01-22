@@ -9,6 +9,7 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+* **21.1.2026**: Още малки корекции, редакции в увода и добавки към основния том до 21.1.2026 г., 2394 стр. More small corrections and additions to the Main Volume of The Prophets (~2394 p. in this edition) - към програмата "Вечно млад"/сила на хвата; Drew McDermott & John McDermott; в първия увод ....
 * **15.1.2026**: Listove, minor corrections of spotted typos ~ p.235-248, larger font (13 vs 12 ...)
 * **11.1.2026** The Main Volume of The Prophets (2379 p. <s>2378 p.</s> in this edition) Published at: https://twenkid.com/agi/ (nearly 64,8 MB): <a href="https://twenkid.com/agi/download.php?file=AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf">AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.pdf</a> [Still being updated with minor corrections.]
 * Публикуван е основният том на Пророците ... <br>
