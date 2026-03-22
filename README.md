@@ -9,6 +9,9 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+* **Reflections on Everything (Listove)  ...** - 22.3.2026: Coming next - corrections of typos, minor stylistic edits and clarifications and additions/updates;
+* **The Prophets ... - Main Volume** - 22.3.2026 - also possibly a few corrections/additions in the Main Volume, new matches; measurement of grip strength with a more reasonable electronic dynamometer (90 kg max -- now 53.3 kg) etc.
+* **Algorithmic Complexity ...** - Corrections of typos, 16.3.2026
 * **2.2026**: Корекции и малко редакции към "Фантастика. Футурология...." #sf
 * **21.1.2026**: Още малки корекции, редакции в увода и добавки към основния том до 21.1.2026 г., 2394 стр. More small corrections and additions to the Main Volume of The Prophets (~2394 p. in this edition) - към програмата "Вечно млад"/сила на хвата; Drew McDermott & John McDermott; в първия увод ....
 * **15.1.2026**: Listove, minor corrections of spotted typos ~ p.235-248, larger font (13 vs 12 ...)
