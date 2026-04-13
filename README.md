@@ -9,6 +9,7 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+* **Reflections on Everything (Listove)  ...** - 13.4.2026: Corrections, edits, added more text from "Universe and Mind 4" in English, related to the Liar's paradox and how TUM interprets it; see p.55-7x about Wolpert theorem's about unpredictability which rediscovers ideas from Theory of Unvierse and Mind,More additions/updates continuing last news etc. are postponed, they may eventually go to another volume or later.
 * **Reflections on Everything (Listove)  ...** - 22.3.2026: Coming next - corrections of typos, minor stylistic edits and clarifications and additions/updates;
 * **The Prophets ... - Main Volume** - 22.3.2026 - also possibly a few corrections/additions in the Main Volume, new matches; measurement of grip strength with a more reasonable electronic dynamometer (90 kg max -- now 53.3 kg) etc.
 * **Algorithmic Complexity ...** - Corrections of typos, 16.3.2026
