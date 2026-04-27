@@ -9,6 +9,13 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+* Редакции и корекции в последната статия до 26.4.2026 г.: **Институти и стратегии за ИИ на световно ниво в Източна Европа и Света ... от Пророците на мислещите машини** - AI_Institutes ... в 
+  * "Наистина ли настоящите национални стратегии за
+развитие чрез изкуствен интелект „развиват страните“
+икономически и водят ли до промяна на мястото им в
+йерархията на благосъстоянието на гражданите им?
+Доведоха ли досега след 2017 г?"
+
 * **Reflections on Everything (Listove)  ...** - 13.4.2026: Corrections, edits, added more text from "Universe and Mind 4" in English, related to the Liar's paradox and how TUM interprets it; see p.55-7x about Wolpert theorem's about unpredictability which rediscovers ideas from Theory of Unvierse and Mind,More additions/updates continuing last news etc. are postponed, they may eventually go to another volume or later.
 * **Reflections on Everything (Listove)  ...** - 22.3.2026: Coming next - corrections of typos, minor stylistic edits and clarifications and additions/updates;
 * **The Prophets ... - Main Volume** - 22.3.2026 - also possibly a few corrections/additions in the Main Volume, new matches; measurement of grip strength with a more reasonable electronic dynamometer (90 kg max -- now 53.3 kg) etc.
