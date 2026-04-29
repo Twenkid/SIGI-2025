@@ -9,6 +9,8 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+* **Lazar** - Corrections and editions up to 29.4.2026; possibly more to come - more introduction abstracts and conclusions for the sections and conclusions etc.
+Some font changes, effects on the title page etc., more detailed description of the author's roles etc.
 * Редакции и корекции в последната статия до 26.4.2026 г.: **Институти и стратегии за ИИ на световно ниво в Източна Европа и Света ... от Пророците на мислещите машини** - AI_Institutes ... в 
   * "Наистина ли настоящите национални стратегии за
 развитие чрез изкуствен интелект „развиват страните“
