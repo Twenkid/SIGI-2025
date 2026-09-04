@@ -9,6 +9,11 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+* Finally uploaded here the paper about "Wolpert's theorem about Mutual Unpredictability ... Rediscovers ideas from Theory of Universe and Mind", first published on SIGI-25 in October 2025, but uploaded on other platforms only.
+* Wolpert’s Theorems about Mutual Unpredictability and the Impossibility of Subuniverses to Predict with Highest Resolution of Causality-Control are Rediscoveries of Concepts from Theory of Universe and Mind – Entangled with Unnecessary Mathematical Notation and Unsatisfiable Premises Todor Arnaudov, 10.2025, The Sacred Computer, SIGI-2025
+A response to: Physical limits of inference, David H. Wolpert, 2007/2008*1 etc.
+
+* (...) Look at SIGI-2026 Etc. Leka_Atletika ... 
 * **Lazar** - Corrections and editions up to 29.4.2026; possibly more to come - more introduction abstracts and conclusions for the sections and conclusions etc.
 Some font changes, effects on the title page etc., more detailed description of the author's roles etc.
 * Редакции и корекции в последната статия до 26.4.2026 г.: **Институти и стратегии за ИИ на световно ниво в Източна Европа и Света ... от Пророците на мислещите машини** - AI_Institutes ... в 
