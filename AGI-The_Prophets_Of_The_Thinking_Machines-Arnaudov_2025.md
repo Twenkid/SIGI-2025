@@ -22,3 +22,5 @@ Compressed 7z in two files/volumes:
 
 * https://github.com/Twenkid/SIGI-2025/blob/main/AGI-The_Prophets_Of_The_Thinking_Machines-Arnaudov_2025.7z.002
 
+
+<img width="773" height="979" alt="image" src="https://github.com/user-attachments/assets/b7464149-891b-47e2-a017-46fe28303f47" />
