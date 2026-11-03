@@ -9,6 +9,26 @@
 
 You can download the papers also from https://twenkid.com/agi/ (a more elaborate website: future)
 
+### Updates and Notes
+
+* Uploaded the 2020 work:
+* The Misleading Concepts and Analysis of their True Meaning: Transhumanism, Civilization, Democracy, Humane, Humanism, Dehumanization, Social Distance, Political Correctness, Fake News, Eurointegration, Globalization, European Values, Liberalism etc., The Sacred Computer, Issue 33, July 2020
+```
+See an excerpt and a discussion in English on AGI List: https://agi.topicbox.com/groups/agi/T19c71eaa95a5e3bd/misleading-concepts-and-analysis-of-their-true-meaning-transhumanism-civilization-democracy-humane-humanism-dehumanization
+
+...
+СВЕЩЕНИЯТ СМЕТАЧ
+бр. 33 /юни-юли 2020/
+ЗАБЛУЖДАВАЩИТЕ ПОНЯТИЯ И
+РАЗБОР НА ИСТИНСКИЯ ИМ СМИСЪЛ:
+Трансхуманизъм, Цивилизация, Демокрация,
+Хуманен, Хуманизъм, Дехуманизация, Социална
+дистанция, Политическа коректност, Фалшиви
+новини, Евроинтеграция, Глобализация,
+Европейски ценности, Либерализъм и други
+ТОДОР АРНАУДОВ – ТОШ
+ДРУЖЕСТВО ЗА ЗАЩИТА НА БЪЛГАРСКИЯ ЕЗИК - ДЗБЕ
+```
 * Finally uploaded here the paper about "Wolpert's theorem about Mutual Unpredictability ... Rediscovers ideas from Theory of Universe and Mind", first published on SIGI-25 in October 2025, but uploaded on other platforms only.
 * Wolpert’s Theorems about Mutual Unpredictability and the Impossibility of Subuniverses to Predict with Highest Resolution of Causality-Control are Rediscoveries of Concepts from Theory of Universe and Mind – Entangled with Unnecessary Mathematical Notation and Unsatisfiable Premises Todor Arnaudov, 10.2025, The Sacred Computer, SIGI-2025
 A response to: Physical limits of inference, David H. Wolpert, 2007/2008*1 etc.
