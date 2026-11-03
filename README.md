@@ -13,8 +13,11 @@ You can download the papers also from https://twenkid.com/agi/ (a more elaborate
 
 * Uploaded the 2020 work:
 * The Misleading Concepts and Analysis of their True Meaning: Transhumanism, Civilization, Democracy, Humane, Humanism, Dehumanization, Social Distance, Political Correctness, Fake News, Eurointegration, Globalization, European Values, Liberalism etc., The Sacred Computer, Issue 33, July 2020
+
+* See an excerpt and a discussion in English on AGI List: https://agi.topicbox.com/groups/agi/T19c71eaa95a5e3bd/misleading-concepts-and-analysis-of-their-true-meaning-transhumanism-civilization-democracy-humane-humanism-dehumanization
+
+  
 ```
-See an excerpt and a discussion in English on AGI List: https://agi.topicbox.com/groups/agi/T19c71eaa95a5e3bd/misleading-concepts-and-analysis-of-their-true-meaning-transhumanism-civilization-democracy-humane-humanism-dehumanization
 
 ...
 СВЕЩЕНИЯТ СМЕТАЧ
